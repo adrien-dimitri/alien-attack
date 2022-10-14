@@ -14,7 +14,7 @@ This project is a simple Alien invaders type game that comes with its UI.
 * Python 3.9
 
 ## Requirements
-* PySide2
+* [PySide2](https://pypi.org/project/PySide2/)
 
 ## Setup
 Clone repository and run the AlienAttackGUI.py file.
