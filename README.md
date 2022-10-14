@@ -8,7 +8,7 @@ Game inspired by Alien Invaders.
 * [Setup](#setup)
 
 ## General info
-This project is a simple Alien invaders type game that comes with its UI
+This project is a simple Alien invaders type game that comes with its UI.
 
 ## Technologies
 * Python 3.9
@@ -17,3 +17,4 @@ This project is a simple Alien invaders type game that comes with its UI
 * PySide2
 
 ## Setup
+Clone repository and run the AlienAttackGUI.py file.
